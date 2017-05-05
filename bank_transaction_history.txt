@@ -1,0 +1,42 @@
+
+Deposit		$50000	05/04/17	$60000
+
+Deposit		$50000	05/04/17	$60000
+
+Withdraw	$11379.3	
+Withdraw	$5078.4	
+Withdraw	$3979.8	
+Deposit		$50000	05/04/17	$60000
+
+Withdrawal	$50	05/04/17	59950
+
+Withdraw	$6548	
+Withdraw	$2275.86	
+Withdraw	$1964.4	
+Withdraw	$7333.76	
+Withdraw	$6548	
+Withdraw	$663.3	
+Withdraw	$6633	
+Withdraw	$6633	
+Deposit		$50000	05/04/17	$60000
+
+Withdrawal	$150	05/04/17	59850
+
+Withdraw	$2619.2	
+Withdraw	$2653.2	
+Deposit		$20000	05/04/17	$30000
+
+Withdrawal	$50	05/04/17	29950
+
+Withdraw	$19644	
+Withdraw	$1137.93	
+Withdraw	$5689.64	
+Withdraw	$663.3	
+Withdraw	$2844.82	
+Withdraw	$5689.64	
+Withdraw	$2962	
+Deposit		$2844.82	
+Withdraw	$2844.82	
+Deposit		$1000	05/04/17	$8155.18
+
+Withdrawal	$100	05/04/17	9900
